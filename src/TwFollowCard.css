@@ -1,7 +1,17 @@
+.App{
+    border: 1px solid #AAA;
+    padding: 1.5rem;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+
+
 .tw-follow-card-Title{
     font-size: 1.5rem;
     color: #FFF;
-    margin-bottom: 1rem;
+    margin: 0;
 }
 
 .tw-followCard {
